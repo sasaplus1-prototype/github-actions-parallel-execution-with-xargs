@@ -1,6 +1,7 @@
 #!/bin/bash
 
-set -euo pipefail
+# set -e
+set -uo pipefail
 
 __main() {
   set -x
